@@ -4,6 +4,10 @@
 - [x] Data pre-processing
 - [x] Fine tuning LLAMA3.1
 
+### Output in ollama
+
+![alt text](./assets/hasina_llama3.gif)
+
 ### HuggingFace repo
 
 - https://huggingface.co/nayeem01/hasina_llama3_8b/tree/main
@@ -17,4 +21,4 @@
 
 - wget -P /path/to/directory https://huggingface.co/nayeem01/hasina_llama3_8b/resolve/main/hasina_llama.Q4_K_M.gguf
 - ollama create hasina_llama -f ./modelfile
-- ollama rum hasina_llama
+- ollama run hasina_llama
