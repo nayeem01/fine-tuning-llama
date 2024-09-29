@@ -15,7 +15,8 @@
 ### NoteBooks Link
 
 - Data processing - https://www.kaggle.com/code/nayeem000/data-pre-processing-for-llama3-1/edit
-- Fine tuning llama3.1 - https://www.kaggle.com/code/nayeem000/fine-tuning-llama3-1-unsloth-with-hasina-data/edit
+- Fine tuning llama3.1 (kaggle notebook) - https://www.kaggle.com/code/nayeem000/fine-tuning-llama3-1-unsloth-with-hasina-data/edit
+- Google Colab - https://colab.research.google.com/drive/1nkbZSWjCeATmfUuGWfGyMz7GaGvsj6Zn
 
 ### How run locally with ollama
 
